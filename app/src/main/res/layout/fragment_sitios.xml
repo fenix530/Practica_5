@@ -1,0 +1,86 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.diegoorozco.practica_5.SitiosFragment"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="135dp"
+        android:src="@drawable/turismo"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/Rutan"
+    android:textSize="25dp"
+    android:textColor="@color/black"
+    android:layout_gravity="center"/>
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/rutan"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/DesRutan"
+        android:gravity="center"/>
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="420dp"
+        android:src="@drawable/rutanfotos"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ParBibli"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/DesParBiblio"
+        android:gravity="center"/>
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="310dp"
+        android:src="@drawable/parques_bibliotecas"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/MusPar"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/DesMuse"
+        android:gravity="center"/>
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="370dp"
+        android:src="@drawable/museos"/>
+
+
+
+</LinearLayout>
+</ScrollView>
