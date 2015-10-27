@@ -5,137 +5,137 @@
     <string name="Cine">Cine</string>
     <string name="Med">Medellin</string>
     <string name="DesMed">Ciudad de la Eterna Primavera</string>
-    <string name="DesMed2" translatable="false">Bienvenidos a una ciudad que inspira, florece y se transforma todos los días</string>
-    <string name="DesMed3" translatable="false"></string>
+    <string name="DesMed2">Bienvenidos a una ciudad que inspira, florece y se transforma todos los días</string>
+    <string name="DesMed3"></string>
     <string name="Rumba">Rumba</string>
-    <string name="Teatro" translatable="false">Teatro</string>
-    <string name="Rest" translatable="false">Restaurantes</string>
-    <string name="Sitos" translatable="false">Sitios Turisticos</string>
-    <string name="DesCine" translatable="false">En Medellin se encuntran cines a lo largo y ancho de la ciudad, hay 3 principales empresas que estan repartidas en todos los centros comercilaes de la Ciudad, aqui puedes encontrar el link de la pagina de cada empresa para que encuntres el cine mas cercano, peliculas en cartelera y sus funcones:</string>
+    <string name="Teatro">Teatro</string>
+    <string name="Rest">Restaurantes</string>
+    <string name="Sitos">Sitios Turisticos</string>
+    <string name="DesCine">En Medellin se encuntran cines a lo largo y ancho de la ciudad, hay 3 principales empresas que estan repartidas en todos los centros comercilaes de la Ciudad, aqui puedes encontrar el link de la pagina de cada empresa para que encuntres el cine mas cercano, peliculas en cartelera y sus funcones:</string>
     <string name="CineColombia">Cine Colombia</string>
-    <string name="DesCineCol" translatable="false">Es la principal empresa de cine en Medellin, con cincos cines repartidos en toda la Ciudad, para ver su unicacion,cartelera y funciones, inngresa a http//:www.cinecolombia.com</string>
+    <string name="DesCineCol">Es la principal empresa de cine en Medellin, con cincos cines repartidos en toda la Ciudad, para ver su unicacion,cartelera y funciones, inngresa a http//:www.cinecolombia.com</string>
     <string name="Procinal">Cinemas Procinal</string>
-    <string name="DesProc" translatable="false">Es otra empresa muy posicionada en la ciudad de Medellin con 3 teatros en esta ciudad, y otros 3 teatros repartidos en los municipios limitrofes a Medellin que forman el Area Metropolitana, para ver su ubicacion, cartelera y funciones ingresa a http//:www.procinal.com</string>
+    <string name="DesProc">Es otra empresa muy posicionada en la ciudad de Medellin con 3 teatros en esta ciudad, y otros 3 teatros repartidos en los municipios limitrofes a Medellin que forman el Area Metropolitana, para ver su ubicacion, cartelera y funciones ingresa a http//:www.procinal.com</string>
     <string name="Royal">Royal Films</string>
-    <string name="DesRoyal" translatable="false">Esta empresa de Cine cuenta con 3 salas de cine en la Ciudad, puedes ver su ubicacion, cartelera y funciones en http//:www.royal-films.com</string>
-    <string name="DesTeatros" translatable="false">En Medellin encuntras teatros de gran, mediano y pequeño formato, que engalanan la ciudad con espectáculos y eventos de calidad, impregnados de mucha creatividad y excelente organización. Su programación es constante durante todo el año, ofreciendo un espacio de sano esparcimiento para sus visitantes, logrando que todos los que comparten el gusto por la cultura teatral puedan disfrutar con cada uno de los eventos que allí se realizan, y contagiando sus vidas de entretenimiento, otras culturas, sensibilidades artísticas y muchos sentimientos. Puedes disfutarlos de todos los Precios, desde comprar una entrada en los grandes teatros hasta una entrada gratiuta con colaboracion voluntaria.</string>
-    <string name="TeatMetr" translatable="false">Teatro Metropolitano</string>
-    <string name="DesTM" translatable="false">Es uno de los teatros de gran formato mas improtante de la ciudad, Ubicada cerca a Plaza Mayor, que es el Centrro de eventos por excelencia de la Ciudad.</string>
+    <string name="DesRoyal">Esta empresa de Cine cuenta con 3 salas de cine en la Ciudad, puedes ver su ubicacion, cartelera y funciones en http//:www.royal-films.com</string>
+    <string name="DesTeatros">En Medellin encuntras teatros de gran, mediano y pequeño formato, que engalanan la ciudad con espectáculos y eventos de calidad, impregnados de mucha creatividad y excelente organización. Su programación es constante durante todo el año, ofreciendo un espacio de sano esparcimiento para sus visitantes, logrando que todos los que comparten el gusto por la cultura teatral puedan disfrutar con cada uno de los eventos que allí se realizan, y contagiando sus vidas de entretenimiento, otras culturas, sensibilidades artísticas y muchos sentimientos. Puedes disfutarlos de todos los Precios, desde comprar una entrada en los grandes teatros hasta una entrada gratiuta con colaboracion voluntaria.</string>
+    <string name="TeatMetr">Teatro Metropolitano</string>
+    <string name="DesTM">Es uno de los teatros de gran formato mas improtante de la ciudad, Ubicada cerca a Plaza Mayor, que es el Centrro de eventos por excelencia de la Ciudad.</string>
     <string name="TelTeaM">57(4) 232 45 97 – 57(4) 232 28 58 Taquilla.</string>
     <string name="PagTeaM">http//:www.teatrometropolitano.com</string>
-    <string name="teatGF" translatable="false">Teatros de Gran formato:</string>
-    <string name="TeatPT" translatable="false">Teatro Pablo Tobon Uribe</string>
+    <string name="teatGF">Teatros de Gran formato:</string>
+    <string name="TeatPT">Teatro Pablo Tobon Uribe</string>
     <string name="TelTeaPT">57(4) 239 75 00.</string>
     <string name="PagTeaPT">http//:www.teatropablotobon.com</string>
-    <string name="TeatUM" translatable="false">Tetaro Universidad de Medellin</string>
+    <string name="TeatUM">Tetaro Universidad de Medellin</string>
     <string name="TelTeaUM">57(4) 340 52 02 – 340 53 24</string>
     <string name="PagTeaUM">http//:http://teatro.udem.edu.co</string>
-    <string name="TetrMF" translatable="false">Teatros de Mediano Formato</string>
-    <string name="TeatrPo" translatable="false">Teatro El Poblado</string>
+    <string name="TetrMF">Teatros de Mediano Formato</string>
+    <string name="TeatrPo">Teatro El Poblado</string>
     <string name="TelTeaPo">57(4) 321 11 00</string>
     <string name="PagTeaPo">http//:www.casateatroelpoblado.com</string>
     <string name="Teatrico">El Teatrico</string>
     <string name="TelTeaico">57(4) 411 88 78.</string>
     <string name="PagTeaico">http//:www.elteatrico.co</string>
-    <string name="TeatrAD" translatable="false">Teatro Aguila Descalza</string>
-    <string name="DesTeatAD" translatable="false">La sede del Águila Descalza en el tradicional barrio Prado de Medellín, es una bella mansión, que por su valor arquitectónico y programación permanente, se ha convertido en referente urbano, cultural y turístico de obligatoria visita para habitantes y visitantes de la ciudad. Allí funciona el Museo Teatro Prado, edificación que cuenta con terrazas, salones y galerías donde se realizan actividades artísticas, encuentros académicos y empresariales, seminarios, proyecciones audiovisuales, entre otras</string>
+    <string name="TeatrAD">Teatro Aguila Descalza</string>
+    <string name="DesTeatAD">La sede del Águila Descalza en el tradicional barrio Prado de Medellín, es una bella mansión, que por su valor arquitectónico y programación permanente, se ha convertido en referente urbano, cultural y turístico de obligatoria visita para habitantes y visitantes de la ciudad. Allí funciona el Museo Teatro Prado, edificación que cuenta con terrazas, salones y galerías donde se realizan actividades artísticas, encuentros académicos y empresariales, seminarios, proyecciones audiovisuales, entre otras</string>
     <string name="TelTeaAD">57(4) 284 42 11</string>
     <string name="PagTeaAD">http//:www.aguiladescalza.com.co</string>
-    <string name="TeatrosPF" translatable="false">Teatros de Pequeño Formato</string>
+    <string name="TeatrosPF">Teatros de Pequeño Formato</string>
     <string name="PeqTea">Pequeño Teatro</string>
-    <string name="TaetPeT" translatable="false">La permanente actividad de investigación, creación y docencia ha hecho de PEQUEÑO TEATRO uno de los grupos más sólidos y representativos del movimiento escénico colombiano. Sus oficinas y teatros se encuentran en una casona de arquitectura republicana ubicada en el centro de la ciudad (Córdoba x La Playa). Por su talento humano y por la infraestructura física PEQUEÑO TEATRO fue declarado patrimonio.</string>
+    <string name="TaetPeT">La permanente actividad de investigación, creación y docencia ha hecho de PEQUEÑO TEATRO uno de los grupos más sólidos y representativos del movimiento escénico colombiano. Sus oficinas y teatros se encuentran en una casona de arquitectura republicana ubicada en el centro de la ciudad (Córdoba x La Playa). Por su talento humano y por la infraestructura física PEQUEÑO TEATRO fue declarado patrimonio.</string>
     <string name="TelTeatPeT">(57) - (4) 239 3947 - 269 9418</string>
     <string name="PagTeatPeT">http://www.pequenoteatro.com/</string>
-    <string name="Rumba1" translatable="false">Siendo la segunda ciudad más grande de Colombia, con la reputación de albergar a la población más linda del país, disfrutar de la vida nocturna y de "La Fiesta Paisa" es algo que se debe hacer cuando se visita esta vibrante ciudad. </string>
-    <string name="lleras" translatable="false">El Parque Lleras, en el El Poblado, es una zona de bares, restaurantes y discotecas como El Blue, B-Lounge o Babylon. También hay varios lugares en un tramo de la Carrera 38 en Las Palmas, cerca del Poblado, incluyendo el extraño y atractivo Dulce Jesús Mío. Además, allí también se encuentran muchos hostales así que los viajeros pueden encontrar diferentes opciones para disfrutar de diferentes opciones durante su visita. Sin embargo, si realmente quiere disfrutar de la vida noctura de Medellín, hay muchas más alternativas disponibles en la ciudad.</string>
-    <string name="barrio" translatable="false">Para los amantes del reggaeton (¡estamos seguros de que hay varios!) le recomendamos ir al Barrio Colombia (cerca de la estación de metro Industriales) donde encontrará muchos bares y una gran disco llamada Prizma.</string>
-    <string name="rumbaC" translatable="false">Para algo más chic, visite la Mila de Oro y La Strada; una especie de centro comercial donde encontrará clubes, bares y restaurantes pero, mejor aún, la concentración más impresionante de mujeres hermosas que ha visto y verá en toda su vida... Un ambiente similar lo encontrará a dos minutos de camino en RioSur que, en el séptimo piso, alberga varias discotecas de moda como Attic y Kukaramakura.</string>
-    <string name="la33" translatable="false">Pero si lo que busca es una experiencia más local, le recomendamos aventurarse a la Calle 33 (solo los fines de semanas) o a los alrededores de las facultades donde encontrará muchos bares baratos y con buen ambiente.</string>
-    <string name="DesRestau" translatable="false">Medllin es una ciudad donde puedes encontrar todo tipo de restaurantes o lugares para comer, desde el carrito de comida rapidas en cada esquina de las zonas rosas y barrios, hasta Restaurantes Reconocidos internacionalmente como El Cielo, que se encuentra en el ranking de los mejores 49 del Mundo; asi tambien puedes econtrar una variadad infinita de precios, desde lo 5000 pesos hasta los 300000, este dependera del sector, comida y lugar elegido, asi pues te prentaremos algunos de los mas famosos entre los Paisas, ya que nombrarlos todos seria Imposible; esperamos disfrutes de una buena comida y que se acomode a tus necesidades:</string>
-    <string name="RestLujo" translatable="false">Restaurantes de Primera Clase</string>
+    <string name="Rumba1">Siendo la segunda ciudad más grande de Colombia, con la reputación de albergar a la población más linda del país, disfrutar de la vida nocturna y de "La Fiesta Paisa" es algo que se debe hacer cuando se visita esta vibrante ciudad. </string>
+    <string name="lleras">El Parque Lleras, en el El Poblado, es una zona de bares, restaurantes y discotecas como El Blue, B-Lounge o Babylon. También hay varios lugares en un tramo de la Carrera 38 en Las Palmas, cerca del Poblado, incluyendo el extraño y atractivo Dulce Jesús Mío. Además, allí también se encuentran muchos hostales así que los viajeros pueden encontrar diferentes opciones para disfrutar de diferentes opciones durante su visita. Sin embargo, si realmente quiere disfrutar de la vida noctura de Medellín, hay muchas más alternativas disponibles en la ciudad.</string>
+    <string name="barrio">Para los amantes del reggaeton (¡estamos seguros de que hay varios!) le recomendamos ir al Barrio Colombia (cerca de la estación de metro Industriales) donde encontrará muchos bares y una gran disco llamada Prizma.</string>
+    <string name="rumbaC">Para algo más chic, visite la Mila de Oro y La Strada; una especie de centro comercial donde encontrará clubes, bares y restaurantes pero, mejor aún, la concentración más impresionante de mujeres hermosas que ha visto y verá en toda su vida... Un ambiente similar lo encontrará a dos minutos de camino en RioSur que, en el séptimo piso, alberga varias discotecas de moda como Attic y Kukaramakura.</string>
+    <string name="la33">Pero si lo que busca es una experiencia más local, le recomendamos aventurarse a la Calle 33 (solo los fines de semanas) o a los alrededores de las facultades donde encontrará muchos bares baratos y con buen ambiente.</string>
+    <string name="DesRestau">Medllin es una ciudad donde puedes encontrar todo tipo de restaurantes o lugares para comer, desde el carrito de comida rapidas en cada esquina de las zonas rosas y barrios, hasta Restaurantes Reconocidos internacionalmente como El Cielo, que se encuentra en el ranking de los mejores 49 del Mundo; asi tambien puedes econtrar una variadad infinita de precios, desde lo 5000 pesos hasta los 300000, este dependera del sector, comida y lugar elegido, asi pues te prentaremos algunos de los mas famosos entre los Paisas, ya que nombrarlos todos seria Imposible; esperamos disfrutes de una buena comida y que se acomode a tus necesidades:</string>
+    <string name="RestLujo">Restaurantes de Primera Clase</string>
     <string name="cielo">El Cielo</string>
-    <string name="DesCielo" translatable="false">En El cielo, creamos experiencias gastronómicas únicas que hacen énfasis en el lado sensorial, al ofrecer un menú de degustación inspirado no solo en las raíces ancestrales colombianas, sino en estudios de neurociencia sobre la estimulación de los sentidos a través de los alimentos, de manera que ofrecemos comida para el cuerpo… y para el alma.</string>
+    <string name="DesCielo">En El cielo, creamos experiencias gastronómicas únicas que hacen énfasis en el lado sensorial, al ofrecer un menú de degustación inspirado no solo en las raíces ancestrales colombianas, sino en estudios de neurociencia sobre la estimulación de los sentidos a través de los alimentos, de manera que ofrecemos comida para el cuerpo… y para el alma.</string>
     <string name="TelCielo">+57 42683002</string>
     <string name="DirCielo">Zona Rosa: Carrera 40 #10A 22</string>
     <string name="PagCielo">http://www.elcielorestaurant.com/es/</string>
-    <string name="ResTom" translatable="false">Restaurante Tony Romas</string>
-    <string name="DesTom" translatable="false">Tony Romas es una cadena de restaurantes mundialmente conocida por sus Costillas a la BBQ, una costumbre propia de la cocina americana que le hadado la vuelta al mundo, se encuentra ubicado en el último piso del Hotel Dann Carlton Medellín siendo el único lugar gastronómico giratorio de 360º en la ciudad de Medellín.</string>
+    <string name="ResTom">Restaurante Tony Romas</string>
+    <string name="DesTom">Tony Romas es una cadena de restaurantes mundialmente conocida por sus Costillas a la BBQ, una costumbre propia de la cocina americana que le hadado la vuelta al mundo, se encuentra ubicado en el último piso del Hotel Dann Carlton Medellín siendo el único lugar gastronómico giratorio de 360º en la ciudad de Medellín.</string>
     <string name="TelRom">444 51 51</string>
     <string name="DirRom">Carrera 43a No. 7 - 50 </string>
     <string name="PagRom">http://www.danncarlton.com/#!tony-romas/c255m</string>
     <string name="ResAng">Angus Brangus</string>
-    <string name="DesAng" translatable="false">Angus-Brangus es un restaurante de carácter internacional con especialidad en carnes, pescados, paellas y mariscos. Tenemos como propósito ofrecer un momento amable y tranquilo, acompañado de bebidas y comidas de alta calidad.</string>
+    <string name="DesAng">Angus-Brangus es un restaurante de carácter internacional con especialidad en carnes, pescados, paellas y mariscos. Tenemos como propósito ofrecer un momento amable y tranquilo, acompañado de bebidas y comidas de alta calidad.</string>
     <string name="TelAng">2321632</string>
     <string name="DirAng">Carrera 42 #34-15 Kilómetro 1 Vía las Palmas</string>
     <string name="PagAng">http://www.angusbrangus.com.co/</string>
-    <string name="ResMed" translatable="false">Restaurantes de Clase Media</string>
-    <string name="DesResMed" translatable="false">Este tipo de Restaurantes son los que mas abundan en la ciudad, les daremos variaos ejemplos dependiendo del tipo de comida, para que puedas disfrutar de todos ellos, ya que son de muy buena calidad y a buenos precios. </string>
-    <string name="ComIta" translatable="false">Comida Italiana</string>
+    <string name="ResMed">Restaurantes de Clase Media</string>
+    <string name="DesResMed">Este tipo de Restaurantes son los que mas abundan en la ciudad, les daremos variaos ejemplos dependiendo del tipo de comida, para que puedas disfrutar de todos ellos, ya que son de muy buena calidad y a buenos precios. </string>
+    <string name="ComIta">Comida Italiana</string>
     <string name="ResIlFor">Il Forno</string>
-    <string name="DesIlFo" translatable="false">Con nuestra cálida atención, precios justos, porciones generosas, ambientes acogedores y excelente calidad en nuestros productos, esperamos brindar siempre la mejor gastronomía informal, además de un excelente servicio siendo la perfecta combinación para satisfacer las necesidades de nuestros clientes.</string>
+    <string name="DesIlFo">Con nuestra cálida atención, precios justos, porciones generosas, ambientes acogedores y excelente calidad en nuestros productos, esperamos brindar siempre la mejor gastronomía informal, además de un excelente servicio siendo la perfecta combinación para satisfacer las necesidades de nuestros clientes.</string>
     <string name="TelIlFo">4484876</string>
     <string name="PagIlFo">http://www.ilforno.com.co/</string>
     <string name="ResPat">La Pastizzeria</string>
-    <string name="DesPas" translatable="false">Pasta Artesenal de la mejor calidad, para elborar la mejor comida Italiana de la ciudad, Recomendadismo para los amantes de la pasta y la comida Italiana</string>
+    <string name="DesPas">Pasta Artesenal de la mejor calidad, para elborar la mejor comida Italiana de la ciudad, Recomendadismo para los amantes de la pasta y la comida Italiana</string>
     <string name="TelPas">444 60 44 </string>
     <string name="PagPas">http://lapastizzeria.com/</string>
     <string name="ResParm">Parmessano</string>
-    <string name="DesParm" translatable="false">Restaurante artesanal se vive esta tradición de la buena mesa, al brindis de un buen vino y una deliciosa comida. Estamos comprometidos con tu salud, por eso todos nuestros productos son elaborados artesanalmente con ingredientes frescos y naturales.</string>
+    <string name="DesParm">Restaurante artesanal se vive esta tradición de la buena mesa, al brindis de un buen vino y una deliciosa comida. Estamos comprometidos con tu salud, por eso todos nuestros productos son elaborados artesanalmente con ingredientes frescos y naturales.</string>
     <string name="TelParm">444 46 62</string>
     <string name="PagParm">http://www.parmessano.com.co/</string>
-    <string name="ResPeru" translatable="false">Comida Peruana</string>
+    <string name="ResPeru">Comida Peruana</string>
     <string name="ResCuz">Cuzco</string>
-    <string name="DesCuz" translatable="false">Cuzco es un restaurante que continúa el boom de la comida peruana en el mundo, y es que ese país está lleno de exotismo y sabiduría en lo que a gastronomía se refiere.</string>
+    <string name="DesCuz">Cuzco es un restaurante que continúa el boom de la comida peruana en el mundo, y es que ese país está lleno de exotismo y sabiduría en lo que a gastronomía se refiere.</string>
     <string name="TelCuz">312 4936</string>
     <string name="PagCuz">http://www.medellin-restaurantes.com/detalle/955/restaurante-cuzco-medellin</string>
-    <string name="ResPtoIn" translatable="false">Restaurante Puerto Inca</string>
-    <string name="DesPtoIn" translatable="false">Es un restaurante que le ofrece lo mejor de la comida Peruana en dónde podrá encontrar platos típicos desde un tradicional Ceviche Peruano hasta nuestro delicioso Lomo Saltado y para endulzar sus paladares tiene que probar el Suspiro Limeño, dulce ancestral de la repostería Limeña, todo siempre acompañado de un delicioso Pisco Sour bebida emblemática del Perú.</string>
+    <string name="ResPtoIn">Restaurante Puerto Inca</string>
+    <string name="DesPtoIn">Es un restaurante que le ofrece lo mejor de la comida Peruana en dónde podrá encontrar platos típicos desde un tradicional Ceviche Peruano hasta nuestro delicioso Lomo Saltado y para endulzar sus paladares tiene que probar el Suspiro Limeño, dulce ancestral de la repostería Limeña, todo siempre acompañado de un delicioso Pisco Sour bebida emblemática del Perú.</string>
     <string name="TelPtoIn">250 0275</string>
     <string name="PagPtoIn">http://www.puertoinka.com/</string>
     <string name="ResPeMi">Peru Mix</string>
-    <string name="DesPeMi" translatable="false">PERU MIX es la primera cadena estilo "fast-food" de comida peruana en Medellin y en Colombia. Aquí podrás disfrutar lo mejor de la comida peruana express y gourmet, en un ambiente casual, joven, economico y divertido</string>
+    <string name="DesPeMi">PERU MIX es la primera cadena estilo "fast-food" de comida peruana en Medellin y en Colombia. Aquí podrás disfrutar lo mejor de la comida peruana express y gourmet, en un ambiente casual, joven, economico y divertido</string>
     <string name="TelPeMi">4488914</string>
     <string name="PagPeMi">http://perumix.co/</string>
-    <string name="ComCh" translatable="false">Comida China</string>
+    <string name="ComCh">Comida China</string>
     <string name="ResInCh">In China</string>
-    <string name="DesInCh" translatable="false">La Calidad de nuestros productos y la excelencia en la atencion, se complementan con la majestuosa arquitectura y sieño del restaurante, que rompe el paisaje e invita a disfrutar de una inolvidable expereincia</string>
+    <string name="DesInCh">La Calidad de nuestros productos y la excelencia en la atencion, se complementan con la majestuosa arquitectura y sieño del restaurante, que rompe el paisaje e invita a disfrutar de una inolvidable expereincia</string>
     <string name="TelInCh">266 7397</string>
     <string name="PagInCh">http://www.inchina.co/</string>
     <string name="ResPaEx">Panda Express</string>
-    <string name="DesPaEx" translatable="false">Desde el brócoli crujiente que utilizamos en nuestro Pollo Shiitake hasta los deliciosos pimientos rojos de nuestra Beijing Beef, nos gusta asegurarnos de que siempre ofreceremos sabor y calidad en nuestros platillos.</string>
+    <string name="DesPaEx">Desde el brócoli crujiente que utilizamos en nuestro Pollo Shiitake hasta los deliciosos pimientos rojos de nuestra Beijing Beef, nos gusta asegurarnos de que siempre ofreceremos sabor y calidad en nuestros platillos.</string>
     <string name="TelPaEx">4489179</string>
     <string name="PagPaEx">http://www.pandaexpress.net.co/</string>
     <string name="ResAW">Asia Wok</string>
     <string name="TelAW">266 9911</string>
     <string name="PagAW">http://www.asiawok.co/</string>
-    <string name="ComCol" translatable="false">Comida Colombiana</string>
+    <string name="ComCol">Comida Colombiana</string>
     <string name="ResMon">Mondongos</string>
-    <string name="DesMon" translatable="false">Mondongos es una empresa lider en el sector gastronomico de cocina tipica y de tradicion Antioqueña, con presencia a nivel nacional e Internacional</string>
+    <string name="DesMon">Mondongos es una empresa lider en el sector gastronomico de cocina tipica y de tradicion Antioqueña, con presencia a nivel nacional e Internacional</string>
     <string name="TelMon">4136696</string>
     <string name="PagMon">http://www.mondongos.com.co/</string>
     <string name="ResRan">El Rancherito</string>
-    <string name="DesRan" translatable="false">La sazón de nuestros platos conserva las recetas tradicionales de la abuela, sabores que son el resultado de la mezcla de ingredientes que siempre tienen la mejor calidad...son productos seleccionados cada dia con mucho cuidado.</string>
+    <string name="DesRan">La sazón de nuestros platos conserva las recetas tradicionales de la abuela, sabores que son el resultado de la mezcla de ingredientes que siempre tienen la mejor calidad...son productos seleccionados cada dia con mucho cuidado.</string>
     <string name="TelRan">235 5921</string>
     <string name="PagRan">http://www.elrancherito.com.co/</string>
     <string name="ResAR">Asados Doña Rosa</string>
-    <string name="DesAR" translatable="false">La comida típica Colombiana tenía ese sabor casero contagiado de mucho amor y sacrificio, ya que se empezó de ceros, solo lo que habia eran ganas de trabajar y de hacer de este pequeño espacio un refugio para clientes y comenzales</string>
+    <string name="DesAR">La comida típica Colombiana tenía ese sabor casero contagiado de mucho amor y sacrificio, ya que se empezó de ceros, solo lo que habia eran ganas de trabajar y de hacer de este pequeño espacio un refugio para clientes y comenzales</string>
     <string name="TelAR">444 0564 </string>
     <string name="PagAR">http://www.asadosdonarosa.com/</string>
-    <string name="ComInV" translatable="false">Comida Internaciona Variada</string>
+    <string name="ComInV">Comida Internaciona Variada</string>
     <string name="ResCD">Clssic Diner</string>
-    <string name="DesCD" translatable="false">Para los amantes de la cocina Americana, abre sus puertas en Envigado en la capital antioqueña Classic Diner, un lugar donde podrá deleitarse con las mejores platos de esta gastronomía pero servido tipo gourmet. Su decoración evoca los mejores bares clásicos Americanos con una decoración al mejor estilo de los años 50´s brindando un ambiente divertido y cómodo</string>
+    <string name="DesCD">Para los amantes de la cocina Americana, abre sus puertas en Envigado en la capital antioqueña Classic Diner, un lugar donde podrá deleitarse con las mejores platos de esta gastronomía pero servido tipo gourmet. Su decoración evoca los mejores bares clásicos Americanos con una decoración al mejor estilo de los años 50´s brindando un ambiente divertido y cómodo</string>
     <string name="PagCD">https://www.facebook.com/restauranteclassicdiner</string>
     <string name="ResCW">Crepes and Waffles</string>
-    <string name="DesCW" translatable="false">Un arte que transforma el alimento en amor y alegría. Nutre el alma y el cuerpo, cautiva paladares y conquista corazones.</string>
+    <string name="DesCW">Un arte que transforma el alimento en amor y alegría. Nutre el alma y el cuerpo, cautiva paladares y conquista corazones.</string>
     <string name="PagCW">http://crepesywaffles.com.co/</string>
-    <string name="ComRap" translatable="false">Comidas Rapidas</string>
-    <string name="DesComRap" translatable="false">Como en toda ciudad que se respte vas a encontrar comidas rapidas de todo tipo, las grandes miltinacionales como McDonalds, Burguer King, SubWay,KFC,etc; se puden encontrar en casi todos los centros comerciales de la ciudad en alunos lugares mas, los calsicos carritos de comida rapida que encontraras en la mayoria de las esquinas de las zonas rosas y loa barrios de la ciudad.</string>
+    <string name="ComRap">Comidas Rapidas</string>
+    <string name="DesComRap">Como en toda ciudad que se respte vas a encontrar comidas rapidas de todo tipo, las grandes miltinacionales como McDonalds, Burguer King, SubWay,KFC,etc; se puden encontrar en casi todos los centros comerciales de la ciudad en alunos lugares mas, los calsicos carritos de comida rapida que encontraras en la mayoria de las esquinas de las zonas rosas y loa barrios de la ciudad.</string>
     <string name="Rutan">RUTA N</string>
-    <string name="DesRutan" translatable="false">El complejo Ruta N, es un sector en el Norte de la Ciudad de Medellín donde podrás encontrar un montón de sitios para conocer, donde te sorprenderás con grandiosas estructuras, aprendas con parque temáticos increíbles y te divertirás en juegos extremos y para la familia. Este complejo está pensado para ser el centro de la Innovación de la Ciudad, ya que allí se encuentra la Universidad de Antioquia, una de las Universidades más Prestigiosas de la Ciudad y del País, el centro de Investigación de la Universidad de Antioquia (SIU), el majestuosos Edificio Ruta N, edificio donde se encuentran una gran cantidad de empresas dedicadas a la investigación, entre ellas HP. Más adelante podrás encontrar el extraordinario Parque de los Deseos, un parque inspirado en la investigación de los astros, allí podrás encontrar el planetario de la ciudad, donde puedes disfrutar de sus hermosos proyecciones, a unos cuanto metros mas podrás encontrar el Parque Explora, un gran parque temático enfocado en las áreas de la ciencia como la física, la Biología, la química, etc. Y además encontraras el majestuoso acuario de la ciudad, el más grande de Colombia y uno de los más grandes de Latinoamérica, a un costado de este podrás encontrar el bellísimo Jardín Botánico de Medellín, gran espacio de flora y fauna, con majestuoso Orquideorama, donde podrás disfrutar de la gran variedad de orquídeas la flor nacional de Colombia. Y  si lo que buscas es diversión al otro lado del parque explora podrás encontrar el Parque Norte, el parque de juegos extremos de la Ciudad donde encontraras un montón de juegos mecánicos extremos y familiares para que te diviertas toda una tarde, puedes guiarte un poco con el mapa mostrado arriba y disfruta de esta hermosa ciudad.</string>
+    <string name="DesRutan">El complejo Ruta N, es un sector en el Norte de la Ciudad de Medellín donde podrás encontrar un montón de sitios para conocer, donde te sorprenderás con grandiosas estructuras, aprendas con parque temáticos increíbles y te divertirás en juegos extremos y para la familia. Este complejo está pensado para ser el centro de la Innovación de la Ciudad, ya que allí se encuentra la Universidad de Antioquia, una de las Universidades más Prestigiosas de la Ciudad y del País, el centro de Investigación de la Universidad de Antioquia (SIU), el majestuosos Edificio Ruta N, edificio donde se encuentran una gran cantidad de empresas dedicadas a la investigación, entre ellas HP. Más adelante podrás encontrar el extraordinario Parque de los Deseos, un parque inspirado en la investigación de los astros, allí podrás encontrar el planetario de la ciudad, donde puedes disfrutar de sus hermosos proyecciones, a unos cuanto metros mas podrás encontrar el Parque Explora, un gran parque temático enfocado en las áreas de la ciencia como la física, la Biología, la química, etc. Y además encontraras el majestuoso acuario de la ciudad, el más grande de Colombia y uno de los más grandes de Latinoamérica, a un costado de este podrás encontrar el bellísimo Jardín Botánico de Medellín, gran espacio de flora y fauna, con majestuoso Orquideorama, donde podrás disfrutar de la gran variedad de orquídeas la flor nacional de Colombia. Y  si lo que buscas es diversión al otro lado del parque explora podrás encontrar el Parque Norte, el parque de juegos extremos de la Ciudad donde encontraras un montón de juegos mecánicos extremos y familiares para que te diviertas toda una tarde, puedes guiarte un poco con el mapa mostrado arriba y disfruta de esta hermosa ciudad.</string>
     <string name="ParBibli">Parques Bibliotecas</string>
-    <string name="DesParBiblio" translatable="false">La ciudad muestra su transformación cultural y educativa en los parques biblioteca, espacios que conjugan de manera sorprendente conocimiento y esparcimiento. Las características arquitectónicas de los parques biblioteca, generosos en diseños, amoblamiento y espacios públicos, cambiaron para bien el paisaje citadino, y la vida diaria, no sólo de los habitantes de las zonas donde están construidos, sino de toda la ciudad.</string>
-    <string name="MusPar" translatable="false">Museos y Parques Principales</string>
-    <string name="DesMuse" translatable="false">En Medellín puedes encontrar una  buena cantidad de museos con diferentes temáticas y grandes parques para el esparcimiento, el Museo más representativo de la ciudad es el Museo de Antioquia, que se encuentra en el centro de la ciudad rodeado del majestuoso parque de Botero, donde se exhiben al aire libre un gran cantidad de Esculturas del famoso escultor paisa Fernando Botero, también puedes encontrar otros como el Museo de Arte Moderno y Museo el Castillo Ubicados en el Barrio el Poblado, También encuentras el Mueso del Agua Ubicado en la zona Administrativa de la Ciudad, cerca al Parque de las Luces y el parque de los Pies Descalzos que engalanan el Edificio Inteligente, sede de una de las Empresas más grandes del país, EPM.</string>
+    <string name="DesParBiblio">La ciudad muestra su transformación cultural y educativa en los parques biblioteca, espacios que conjugan de manera sorprendente conocimiento y esparcimiento. Las características arquitectónicas de los parques biblioteca, generosos en diseños, amoblamiento y espacios públicos, cambiaron para bien el paisaje citadino, y la vida diaria, no sólo de los habitantes de las zonas donde están construidos, sino de toda la ciudad.</string>
+    <string name="MusPar">Museos y Parques Principales</string>
+    <string name="DesMuse">En Medellín puedes encontrar una  buena cantidad de museos con diferentes temáticas y grandes parques para el esparcimiento, el Museo más representativo de la ciudad es el Museo de Antioquia, que se encuentra en el centro de la ciudad rodeado del majestuoso parque de Botero, donde se exhiben al aire libre un gran cantidad de Esculturas del famoso escultor paisa Fernando Botero, también puedes encontrar otros como el Museo de Arte Moderno y Museo el Castillo Ubicados en el Barrio el Poblado, También encuentras el Mueso del Agua Ubicado en la zona Administrativa de la Ciudad, cerca al Parque de las Luces y el parque de los Pies Descalzos que engalanan el Edificio Inteligente, sede de una de las Empresas más grandes del país, EPM.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
