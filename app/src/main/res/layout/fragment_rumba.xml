@@ -55,5 +55,12 @@
         android:layout_height="wrap_content"
         android:text="@string/la33"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/Mapa"
+        android:id="@+id/bRumbaMapa"/>
+
+
 </LinearLayout>
 </ScrollView>
